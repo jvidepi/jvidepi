@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jvidepi
-- 👀 I’m interested in ...Networking security
-- 🌱 I’m currently learning ...Python, Powershell, BASH
-- 💞️ I’m looking to collaborate on ...whatever where I can help
-- 📫 How to reach me ...golghotha@protonmail.com
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...jvidepi@gmail.com
 
 <!---
 jvidepi/jvidepi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
